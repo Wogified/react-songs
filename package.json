@@ -2,7 +2,7 @@
   "name": "songs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wogified.github.io/react-songs",
+  "homepage": "git@github.com:Wogified/react-songs.git",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
