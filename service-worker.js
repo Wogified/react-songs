@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "git@github.com:Wogified/react-songs.git/precache-manifest.35f0418ab6668b7ad751a25a57ef4ae3.js"
+  "/react-songs/precache-manifest.67bf1ead890f350d34420af23ba57f43.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("git@github.com:Wogified/react-songs.git/index.html", {
+workbox.routing.registerNavigationRoute("/react-songs/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

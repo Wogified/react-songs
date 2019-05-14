@@ -1,11 +1,11 @@
 {
-  "main.js": "git@github.com:Wogified/react-songs.git/static/js/main.5c3f5a8c.chunk.js",
-  "main.js.map": "git@github.com:Wogified/react-songs.git/static/js/main.5c3f5a8c.chunk.js.map",
-  "runtime~main.js": "git@github.com:Wogified/react-songs.git/static/js/runtime~main.7f407531.js",
-  "runtime~main.js.map": "git@github.com:Wogified/react-songs.git/static/js/runtime~main.7f407531.js.map",
-  "static/js/2.ddf945a4.chunk.js": "git@github.com:Wogified/react-songs.git/static/js/2.ddf945a4.chunk.js",
-  "static/js/2.ddf945a4.chunk.js.map": "git@github.com:Wogified/react-songs.git/static/js/2.ddf945a4.chunk.js.map",
-  "index.html": "git@github.com:Wogified/react-songs.git/index.html",
-  "precache-manifest.35f0418ab6668b7ad751a25a57ef4ae3.js": "git@github.com:Wogified/react-songs.git/precache-manifest.35f0418ab6668b7ad751a25a57ef4ae3.js",
-  "service-worker.js": "git@github.com:Wogified/react-songs.git/service-worker.js"
+  "main.js": "/react-songs/static/js/main.5c3f5a8c.chunk.js",
+  "main.js.map": "/react-songs/static/js/main.5c3f5a8c.chunk.js.map",
+  "runtime~main.js": "/react-songs/static/js/runtime~main.710da513.js",
+  "runtime~main.js.map": "/react-songs/static/js/runtime~main.710da513.js.map",
+  "static/js/2.ddf945a4.chunk.js": "/react-songs/static/js/2.ddf945a4.chunk.js",
+  "static/js/2.ddf945a4.chunk.js.map": "/react-songs/static/js/2.ddf945a4.chunk.js.map",
+  "index.html": "/react-songs/index.html",
+  "precache-manifest.67bf1ead890f350d34420af23ba57f43.js": "/react-songs/precache-manifest.67bf1ead890f350d34420af23ba57f43.js",
+  "service-worker.js": "/react-songs/service-worker.js"
 }
