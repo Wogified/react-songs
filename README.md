@@ -1,3 +1,3 @@
 # react-songs
 
-[http://Wogified.github.io/react-songs](http://Wogified.github.io/react-songs)
+[https://wogified.github.io/react-songs](https://wogified.github.io/react-songs)
